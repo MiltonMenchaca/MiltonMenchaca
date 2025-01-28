@@ -11,14 +11,7 @@
 <br>
 
 <p align="center"> 
-	<!-- Profile views badge (optional) -->
-	<img src="https://komarev.com/ghpvc/?username=memenchac&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile Views" height="25px" width="160px"/>
-	
-	<!-- Example of a placeholder for commits.top or any other badge you'd like to use -->
-	<a href="#" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Placeholder Badge" target="_blank" height="25px" width="250px"/> 
-	</a>
-</p>
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 <picture>
