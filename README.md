@@ -26,7 +26,9 @@
   - Analyzed wastewater plant performance and built risk matrices.  
 - :trophy: **Always learning**: exploring **red teaming**, **CTFs**, and even dabbling in **OS development** to broaden my skillset.  
 - :eyes: Interested in new collaborations or opportunities in **cybersecurity** and **full-stack** projects.
-
+## Live Website 🌐  
+You can visit my blog here:  
+ **[MiltonM Blog](https://miltonmenchaca.github.io/MiltonM.github.io/)**  
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
 
