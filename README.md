@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi , I'm Milton Emilio Menchaca Manero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<h1 align="center">Hi , I'm LordMurak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <p align="center">
   <!-- Customize the text here to match your interests/roles -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -52,13 +52,6 @@ and also you can visit my portfoli, is on progress of development:[MiltonM portf
   - Deployed **C2 infrastructure** using **Empire** on AWS Cloud for security testing.  
   - Developed custom malware in **C** and **Python** for penetration testing.
 
-- **Invoice Specialist - SSESTCO Consultoría Integral**  
-  - Created invoices, managed products, and prepared quotes using **IntelliSAT**.  
-  - Coordinated deliveries to client locations.
-
-- **Report Assistant - Bureau Veritas Mexicana**  
-  - Analyzed wastewater plant diagrams at the Salina Cruz refinery.  
-  - Prepared performance reports and risk scenario matrices.
 
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Technical Skills
